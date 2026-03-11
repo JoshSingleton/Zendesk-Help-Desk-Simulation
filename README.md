@@ -1,4 +1,4 @@
-# Zendesk-Help-Desk-Simulation
+# Zendesk Help Desk Simulation
 
 ## Objective
 
