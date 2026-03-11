@@ -1,4 +1,4 @@
-# Zendesk-Help-Desk-Lab
+# Zendesk-Help-Desk-Simulation
 
 ## Objective
 
