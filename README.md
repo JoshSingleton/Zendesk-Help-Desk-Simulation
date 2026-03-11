@@ -1,4 +1,4 @@
-# Zendesk Help Desk Simulation
+# Help Desk Workflow Simulation
 
 ## Objective
 
